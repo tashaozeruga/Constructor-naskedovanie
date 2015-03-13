@@ -1,0 +1,6 @@
+c:\users\vlad\documents\visual studio 2013\Projects\Constructor-nasledovanie\Constructor-nasledovanie\bin\Debug\Constructor-nasledovanie.exe.config
+c:\users\vlad\documents\visual studio 2013\Projects\Constructor-nasledovanie\Constructor-nasledovanie\bin\Debug\Constructor-nasledovanie.exe
+c:\users\vlad\documents\visual studio 2013\Projects\Constructor-nasledovanie\Constructor-nasledovanie\bin\Debug\Constructor-nasledovanie.pdb
+c:\users\vlad\documents\visual studio 2013\Projects\Constructor-nasledovanie\Constructor-nasledovanie\obj\Debug\Constructor-nasledovanie.csprojResolveAssemblyReference.cache
+c:\users\vlad\documents\visual studio 2013\Projects\Constructor-nasledovanie\Constructor-nasledovanie\obj\Debug\Constructor-nasledovanie.exe
+c:\users\vlad\documents\visual studio 2013\Projects\Constructor-nasledovanie\Constructor-nasledovanie\obj\Debug\Constructor-nasledovanie.pdb
